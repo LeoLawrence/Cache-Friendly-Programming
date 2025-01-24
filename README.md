@@ -3,9 +3,9 @@
 
 A set of programs used to model and simulate Cache behavior, followed by a set of programs used to program with the cache in mind.
 
-These projects were created for my Computer Architecture course (CS 214) and include some provided code.
+These projects were created for my Computer Architecture course (Rutgers CS 214) and include some provided code.
 
-To differentiate between provided code and my personal code, please check the difference between the \*_provided.c file and the \*.c file for each program.
+To differentiate between provided code and my personal code, please check the difference between the \*_provided.c file and the \*.c file for each program. Note that the provided file is directly from the course instructor (link found below).
 
 ## Authors
 
